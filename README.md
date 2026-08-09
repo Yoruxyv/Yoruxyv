@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/badges/English.svg" alt="Switch to English"/>
+  <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/badges/English.svg" alt="Switch to English"/>
   <a href="./docs/readmeCN.md">
-    <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/badges/Chinese.svg" alt="切换到中文"/>
+    <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/badges/Chinese.svg" alt="切换到中文"/>
   </a>
 </p>
 <div align="center">
@@ -18,8 +18,8 @@
 </p>
 
 <picture>
-<img src="https://nirzak-trophies.vercel.app/?username=Dendroculus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dendroculus&theme=tokyo-night&bg_color=0d1117&color=e2e8f0&line=0ea5e9&point=38bdf8&area=true&hide_border=true&hide_title=true&hide_legend=true" />
+<img src="https://nirzak-trophies.vercel.app/?username=Yoruxyv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoruxyv&theme=tokyo-night&bg_color=0d1117&color=e2e8f0&line=0ea5e9&point=38bdf8&area=true&hide_border=true&hide_title=true&hide_legend=true" />
 </picture>
 
 </div>
@@ -31,7 +31,7 @@
 ## 🔭 About Me
 
 <div style="display: inline-block; text-align: left;">
-<picture><img src="https://komarev.com/ghpvc/?username=Dendroculus&color=ff69b4&style=round&abbreviated=true" /></picture>
+<picture><img src="https://komarev.com/ghpvc/?username=Yoruxyv&color=ff69b4&style=round&abbreviated=true" /></picture>
 <picture><img src="https://wakatime.com/badge/user/23f3d64a-9d3a-46c1-b3d4-7fce4abee794.svg?style=flat&color=ff69b4"></picture>
 
 <br>
@@ -78,7 +78,7 @@
 
 ## ✨ Featured Projects
 
-[![PixelForge](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Dendroculus&repo=PixelForge&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/Dendroculus/PixelForge) [![Semantix](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Dendroculus&repo=Semantix&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/Dendroculus/Semantix)
+[![PixelForge](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Yoruxyv&repo=PixelForge&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/Yoruxyv/PixelForge) [![Semantix](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Yoruxyv&repo=Semantix&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/Yoruxyv/Semantix)
 
 </div>
 
@@ -90,11 +90,11 @@
   <picture>
     <source
       media="(max-width: 768px)"
-      srcset="https://github-stats-extended-frontend-jade.vercel.app/api?username=Dendroculus&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=20&locale=en"
+      srcset="https://github-stats-extended-frontend-jade.vercel.app/api?username=Yoruxyv&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=20&locale=en"
     />
     <img
       height="165"
-      src="https://github-stats-extended-frontend-jade.vercel.app/api?username=Dendroculus&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25&locale=en"
+      src="https://github-stats-extended-frontend-jade.vercel.app/api?username=Yoruxyv&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25&locale=en"
       alt="Hans Valerie's GitHub stats"
     />
   </picture>
@@ -102,11 +102,11 @@
   <picture>
     <source
       media="(max-width: 768px)"
-      srcset="https://github-stats-extended-frontend-jade.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&locale=en"
+      srcset="https://github-stats-extended-frontend-jade.vercel.app/api/top-langs/?username=Yoruxyv&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&locale=en"
     />
     <img
       height="165"
-      src="https://github-stats-extended-frontend-jade.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&card_width=320&locale=en"
+      src="https://github-stats-extended-frontend-jade.vercel.app/api/top-langs/?username=Yoruxyv&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&card_width=320&locale=en"
       alt="Hans Valerie's most-used languages"
     />
   </picture>
@@ -114,7 +114,7 @@
   <picture>
     <img
       height="165"
-      src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dendroculus&theme=tokyonight&background=161b22&ring=60a5fa&fire=7dd3fc&currStreakLabel=60a5fa&sideNums=38bdf8&sideLabels=60a5fa&dates=94a3b8&border=3b82f6&stroke=0ea5e9&border_radius=20&locale=en"
+      src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Yoruxyv&theme=tokyonight&background=161b22&ring=60a5fa&fire=7dd3fc&currStreakLabel=60a5fa&sideNums=38bdf8&sideLabels=60a5fa&dates=94a3b8&border=3b82f6&stroke=0ea5e9&border_radius=20&locale=en"
       alt="Hans Valerie's GitHub streak stats"
     />
   </picture>
@@ -128,22 +128,22 @@
 
 <p align="center">
   <a href="mailto:metsuwork@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/socials/gmail.png" alt="Gmail" width="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/socials/gmail.png" alt="Gmail" width="38"/>
   </a>
   <a href="https://discord.com/">
-    <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/socials/discord.svg" alt="Discord" width="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/socials/discord.svg" alt="Discord" width="38"/>
   </a>
   <a href="https://t.me/YOUR_USERNAME">
-    <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/socials/telegram.png" alt="Telegram" width="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/socials/telegram.png" alt="Telegram" width="38"/>
   </a>
   <a href="https://www.instagram.com/YOUR_USERNAME">
-    <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/socials/instagram.png" alt="Instagram" width="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/socials/instagram.png" alt="Instagram" width="38"/>
   </a>
   <a href="https://www.linkedin.com/in/hans-valerie">
-    <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/socials/linkedin.svg" alt="LinkedIn" width="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/socials/linkedin.svg" alt="LinkedIn" width="38"/>
   </a>
-  <a href="https://leetcode.com/Dendroculus/">
-  <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/socials/leetcode.svg" alt="LeetCode"  width="32"
+  <a href="https://leetcode.com/Yoruxyv/">
+  <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/socials/leetcode.svg" alt="LeetCode"  width="32"
       height="32"/>  </a>
 </p>
 
