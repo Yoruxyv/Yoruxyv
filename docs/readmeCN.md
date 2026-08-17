@@ -133,10 +133,10 @@
   <a href="https://discord.com/">
     <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/socials/discord.svg" alt="Discord" width="38"/>
   </a>
-  <a href="https://t.me/YOUR_USERNAME">
+  <a href="https://t.me/HansValerie">
     <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/socials/telegram.png" alt="Telegram" width="38"/>
   </a>
-  <a href="https://www.instagram.com/YOUR_USERNAME">
+  <a href="https://www.instagram.com/Yoruxyv/">
     <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/socials/instagram.png" alt="Instagram" width="38"/>
   </a>
   <a href="https://www.linkedin.com/in/hans-valerie">
