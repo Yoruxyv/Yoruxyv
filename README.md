@@ -68,7 +68,7 @@
 
   <div align="center">
     <b>Tools & Cloud</b><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,azure,cloudflare" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,azure,cloudflare,playwright" />
   </div>
 </div>
 
