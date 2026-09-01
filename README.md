@@ -1,30 +1,10 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/badges/English.svg" alt="Switch to English"/>
-  <a href="./docs/readmeCN.md">
+  <a href="./README.zh-cn.md">
     <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/badges/Chinese.svg" alt="切换到中文"/>
   </a>
 </p>
 <div align="center">
-
-# 👋 I'm Hans Valerie
-
-<p align="center">
-  <picture>
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5865F2&center=true&vCenter=true&width=620&lines=Building+full-stack+systems;Turning+ideas+into+real+products;Learning+by+shipping+projects"
-      alt="Typing SVG"
-    />
-  </picture>
-</p>
-
-<picture>
-<img src="https://nirzak-trophies.vercel.app/?username=Yoruxyv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoruxyv&theme=tokyo-night&bg_color=0d1117&color=e2e8f0&line=0ea5e9&point=38bdf8&area=true&hide_border=true&hide_title=true&hide_legend=true" />
-</picture>
-
-</div>
-
-
 
 <div align="center">
 
@@ -35,15 +15,14 @@
 <picture><img src="https://wakatime.com/badge/user/23f3d64a-9d3a-46c1-b3d4-7fce4abee794.svg?style=flat&color=ff69b4"></picture>
 
 <br>
-💻 Building full-stack and AI systems with Python, FastAPI, React, TypeScript, PostgreSQL, and Docker. <br>
-⚙️ Interested in backend architecture, observability, realtime systems, and system design. <br>
-🧠 Currently building Semantix, an observable semantic caching platform. <br>
-🎨 Built PixelForge, an AI-powered image processing platform. <br>
-🚀 Learning by building, shipping, and improving real-world projects.
+💻 Computer Science student focused on backend and full-stack development. <br>
+⚙️ Working with Python, FastAPI, React, TypeScript, PostgreSQL, and Docker. <br>
+🧠 Building Semantix, an observable semantic caching platform. <br>
+🎨 Built PixelForge, a full-stack AI-powered image processing platform. <br>
+🔧 Interested in maintainable systems, observability, testing, and system design.
 </div>
 
 </div>
-
 
 
 <div align="center">
@@ -142,9 +121,6 @@
   <a href="https://www.linkedin.com/in/hans-valerie">
     <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/socials/linkedin.svg" alt="LinkedIn" width="38"/>
   </a>
-  <a href="https://leetcode.com/Yoruxyv/">
-  <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/socials/leetcode.svg" alt="LeetCode"  width="32"
-      height="32"/>  </a>
 </p>
 
 </div>

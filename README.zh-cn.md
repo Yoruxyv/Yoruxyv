@@ -1,30 +1,10 @@
 <p align="center">
-  <a href="../README.md">
+  <a href="./README.md">
     <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/badges/English.svg" alt="切换到英文"/>
   </a>
   <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/badges/Chinese.svg" alt="中文"/>
 </p>
 <div align="center">
-
-# 👋 你好，我是 Hans Valerie
-
-<p align="center">
-  <picture>
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=24&pause=1000&color=5865F2&center=true&vCenter=true&width=620&lines=%E6%9E%84%E5%BB%BA%E5%85%A8%E6%A0%88%E7%B3%BB%E7%BB%9F;%E5%B0%86%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E7%9C%9F%E5%AE%9E%E4%BA%A7%E5%93%81;%E9%80%9A%E8%BF%87%E4%BA%A4%E4%BB%98%E9%A1%B9%E7%9B%AE%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0"
-      alt="动态文字介绍"
-    />
-  </picture>
-</p>
-
-<picture>
-<img src="https://nirzak-trophies.vercel.app/?username=Yoruxyv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub 奖杯" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoruxyv&theme=tokyo-night&bg_color=0d1117&color=e2e8f0&line=0ea5e9&point=38bdf8&area=true&hide_border=true&hide_title=true&hide_legend=true" />
-</picture>
-
-</div>
-
-
 
 <div align="center">
 
@@ -35,11 +15,11 @@
 <picture><img src="https://wakatime.com/badge/user/23f3d64a-9d3a-46c1-b3d4-7fce4abee794.svg?style=flat&color=ff69b4"></picture>
 
 <br>
-💻 使用 Python、FastAPI、React、TypeScript、PostgreSQL 和 Docker 构建全栈与 AI 系统。<br>
-⚙️ 专注于后端架构、可观测性、实时系统与系统设计。<br>
-🧠 正在构建可观测的语义缓存平台 Semantix。<br>
-🎨 构建了 AI 图像处理平台 PixelForge。<br>
-🚀 在持续构建、发布和改进真实项目的过程中学习成长。
+💻 计算机科学专业学生，专注于后端与全栈开发。 <br>
+⚙️ 主要使用 Python、FastAPI、React、TypeScript、PostgreSQL 和 Docker。 <br>
+🧠 正在开发 Semantix，一个具备可观测性的语义缓存平台。 <br>
+🎨 已完成 PixelForge，一个全栈 AI 驱动的图像处理平台。 <br>
+🔧 对可维护系统、可观测性、测试和系统设计感兴趣。
 </div>
 
 </div>
@@ -141,10 +121,6 @@
   </a>
   <a href="https://www.linkedin.com/in/hans-valerie">
     <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/socials/linkedin.svg" alt="LinkedIn" width="38"/>
-  </a>
-  <a href="https://leetcode.com/Yoruxyv/">
-  <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/socials/leetcode.svg" alt="LeetCode"  width="32"
-      height="32"/>  </a>
 </p>
 
 </div>
