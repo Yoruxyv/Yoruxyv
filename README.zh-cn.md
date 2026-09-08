@@ -1,9 +1,8 @@
 <p align="center">
-  <a href="./README.md">
-    <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/badges/English.svg" alt="切换到英文"/>
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/badges/Chinese.svg" alt="中文"/>
+  <strong>EN</strong> ·
+  <a href="./README.zh-cn.md">中文</a>
 </p>
+
 <div align="center">
 
 <div align="center">
@@ -15,11 +14,11 @@
 <picture><img src="https://wakatime.com/badge/user/23f3d64a-9d3a-46c1-b3d4-7fce4abee794.svg?style=flat&color=ff69b4"></picture>
 
 <br>
-💻 计算机科学专业学生，专注于后端与全栈开发。 <br>
+💻 计算机科学专业学生，专注于全栈开发。 <br>
 ⚙️ 主要使用 Python、FastAPI、React、TypeScript、PostgreSQL 和 Docker。 <br>
-🧠 正在开发 Semantix，一个具备可观测性的语义缓存平台。 <br>
-🎨 已完成 PixelForge，一个全栈 AI 驱动的图像处理平台。 <br>
-🔧 对可维护系统、可观测性、测试和系统设计感兴趣。
+🌱 通过代码、文档和本地化参与开源项目。 <br>
+🧠 正在开发 Semantix，并持续维护 RepoDitor。 <br>
+🔧 对可维护系统、测试、可观测性和系统设计感兴趣。
 </div>
 
 </div>

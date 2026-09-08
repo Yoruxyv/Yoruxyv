@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/badges/English.svg" alt="Switch to English"/>
-  <a href="./README.zh-cn.md">
-    <img src="https://cdn.jsdelivr.net/gh/Yoruxyv/Yoruxyv@main/assets/badges/Chinese.svg" alt="切换到中文"/>
-  </a>
+  <strong>EN</strong> ·
+  <a href="./README.zh-cn.md">中文</a>
 </p>
+
 <div align="center">
 
 <div align="center">
@@ -15,11 +14,11 @@
 <picture><img src="https://wakatime.com/badge/user/23f3d64a-9d3a-46c1-b3d4-7fce4abee794.svg?style=flat&color=ff69b4"></picture>
 
 <br>
-💻 Computer Science student focused on backend and full-stack development. <br>
+💻 Computer Science student focused on full-stack development. <br>
 ⚙️ Working with Python, FastAPI, React, TypeScript, PostgreSQL, and Docker. <br>
-🧠 Building Semantix, an observable semantic caching platform. <br>
-🎨 Built PixelForge, a full-stack AI-powered image processing platform. <br>
-🔧 Interested in maintainable systems, observability, testing, and system design.
+🌱 Contributing to open-source projects through code, docs, and localization. <br>
+🧠 Building Semantix and maintaining RepoDitor. <br>
+🔧 Interested in maintainable systems, testing, observability, and system design.
 </div>
 
 </div>
