@@ -1,5 +1,6 @@
 <p align="center">
   <strong>EN</strong> ·
+  <a href="./README.id.md">ID</a> ·
   <a href="./README.zh-cn.md">中文</a>
 </p>
 
@@ -14,11 +15,11 @@
 <picture><img src="https://wakatime.com/badge/user/23f3d64a-9d3a-46c1-b3d4-7fce4abee794.svg?style=flat&color=ff69b4"></picture>
 
 <br>
-💻 Computer Science student focused on full-stack development. <br>
-⚙️ Working with Python, FastAPI, React, TypeScript, PostgreSQL, and Docker. <br>
-🌱 Contributing to open-source projects through code, docs, and localization. <br>
-🧠 Building Semantix and maintaining RepoDitor. <br>
-🔧 Interested in maintainable systems, testing, observability, and system design.
+💻 Computer Science student exploring full-stack development and backend engineering. <br>
+⚙️ Building web applications, APIs, and developer tools. <br>
+🌱 Contributing to open source through code, documentation, and localization. <br>
+🧠 Developing Semantix and maintaining RepoDitor. <br>
+🔧 Interested in software architecture, testing, and building reliable systems.
 </div>
 
 </div>
@@ -41,7 +42,7 @@
 
   <div align="center">
     <b>Backend & Database</b><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,nodejs,express,postgres,mysql,sqlite,sequelize" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,nodejs,express,postgres,mysql,sqlite,redis,sequelize" />
   </div>
 
   <div align="center">
@@ -56,7 +57,7 @@
 
 ## ✨ Featured Projects
 
-[![PixelForge](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Yoruxyv&repo=PixelForge&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/Yoruxyv/PixelForge) [![Semantix](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Yoruxyv&repo=Semantix&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/Yoruxyv/Semantix)
+[![RepoDitor](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Yoruxyv&repo=RepoDitor&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/Yoruxyv/RepoDitor) [![Semantix](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Yoruxyv&repo=Semantix&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/Yoruxyv/Semantix)
 
 </div>
 
